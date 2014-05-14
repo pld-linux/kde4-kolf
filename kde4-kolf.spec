@@ -5,12 +5,12 @@
 Summary:	Miniature golf for KDE
 Summary(pl.UTF-8):	Mini golf
 Name:		kde4-%{orgname}
-Version:	4.13.0
+Version:	4.13.1
 Release:	1
 License:	GPL
 Group:		X11/Applications/Games
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	842d4741f1a1528bf18e55d98247a963
+# Source0-md5:	e8af943c367346cf121bf59dd8eadf59
 BuildRequires:	automoc4 >= 0.9.88
 BuildRequires:	cmake >= 2.8.0
 BuildRequires:	kde4-kdelibs-devel >= %{version}
